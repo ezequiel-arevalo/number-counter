@@ -1,0 +1,3 @@
+# Number Counter
+## Project description
+In this project, we'll create a counter featuring three buttons, a title, and a control number. We'll use Bootstrap to design the buttons. Clicking the plus button increases the number and changes its color to green. Clicking the minus button decreases it. If the number is less than zero, its color changes to red. Lastly, the reset button sets the number back to zero. JavaScript will handle all these functionalities. We'll add event listeners to the buttons to trigger functions that change the number value and color. Additionally, we'll create a function to reset the number to zero. This project will teach you how to create buttons with Bootstrap and use JavaScript to manipulate a webpage's content and appearance.
